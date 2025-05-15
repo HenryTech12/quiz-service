@@ -19,5 +19,5 @@ This is the Quiz Service in a microservices-based Java architecture. It manages 
 - Service discovery through Eureka
 
 ## Links: 
-Question Service Repository Url: 
-Eureka Server For Bot Services Repository Url: 
+- Question Service Repository Url: [question service] (https://github.com/HenryTech12/question-service)
+- Eureka Server For Bot Services Repository Url: [eureka server] (https://github.com/HenryTech12/Eureka-Server-For-Quiz-and-Question-Service)
